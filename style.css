@@ -1215,6 +1215,7 @@ display: flex;
         font-size: 32px;
         padding-top: 30px;
     }
+    
     .feature-prod-title{
         font-size: 30px;
     }
@@ -1254,10 +1255,14 @@ display: flex;
     .feature-nav-list{
         justify-content: space-around;
     }
+    .meet-our-text{
+        font-size:12px;
+    }
     
 }
 @media(max-width:340px){
     .feature-nav-item{
         font-size: 8px;
     }
+    
 }
